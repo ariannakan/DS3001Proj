@@ -15,3 +15,5 @@ contains tweets for JPMorgan (JPM), 3M (MMM), and Bank of America (BAC) from Jan
 * symbol: corresponding stock (ticker code)
 * source: Tweet Data: https://github.com/yumoxu/stocknet-dataset
 
+### text_cleaning.ipynb
+contains simple python script for converting tweet text data from array to string
